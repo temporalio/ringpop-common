@@ -5,9 +5,9 @@
     "Jeff Wolski <wolski@uber.com>"
   ],
   "version": "0.0.1",
-  "repository": "git://github.com/uber/ringpop-common.git",
+  "repository": "git://github.com/temporalio/ringpop-common.git",
   "dependencies": {
-    "async": "^3.1.1",
+    "async": "^3.2.2",
     "cli-color": "^0.3.2",
     "commander": "^2.6.0",
     "farmhash": "^1.1.0",
@@ -22,7 +22,7 @@
     "tape-catch": "^1.0.6",
     "tchannel": "^3.6.24",
     "uber-licence": "^2.0.1",
-    "zero-config": "^5.0.0"
+    "zero-config": "^7.0.0"
   },
   "pre-commit": [
     "check-licence"
